@@ -1,0 +1,21 @@
+OrderID,CustomerName,Product,Category,Quantity,Price,OrderDate,Region,PaymentMethod
+1001,John Kamau,Laptop,Electronics,2,75000,05/01/2025,Nairobi,Mpesa
+1002,Mary Wanjiku,Mouse,Electronics,5,1500,05/01/2025,Nakuru,M-Pesa
+1003,Peter Otieno,Keyboard,Electronics,,2500,06/01/2025,Kisumu,Cash
+1004,Amina Hassan,Office Chair,Furniture,1,12000,07/01/2025,Mombasa,Card
+1005,David Mwangi,Desk,Furniture,Two,30000,08/01/2025,Nairobi,Mpesa
+1006,Lucy Atieno,Laptop,Electronics,1,KES 70000,08/01/2025,Kisumu,Mpesa
+1007,James Kariuki,Monitor,Electronics,3,18000,09/01/2025,Nakuru,Card
+1008,,Printer,Electronics,1,15000,10/01/2025,Nairobi,Mpesa
+1009,Grace Njeri,Desk,Furn.,2,28000,11/01/2025,Eldoret,Cash
+1010,Samuel Kiptoo,Mouse,Electronics,4,1400,11/01/2025,Eldoret,Mpesa
+1011,Anne Chebet,Laptop,electronic,1,72000,11/01/2025,Nairobi,Card
+1012,Paul Mutua,Keyboard,Electronics,2,2500,12/01/2025,Nakuru,Cash
+1013,John Kamau,Laptop,Electronics,2,75000,05/01/2025,Nairobi,Mpesa
+1014,Linda Akinyi,Monitor,Electronics,1,,13/01/2025,Kisumu,Mpesa
+1015,Brian Odhiambo,Office Chair,Furniture,-1,12000,14/01/2025,Mombasa,Card
+1016,Susan Wairimu,Desk,Furniture,1,30000,,Nairobi,Mpesa
+1017,Kevin Kiprono,Printer,Electronics,3,15000,2025-13-01,Nakuru,Mpesa
+1018,Joseph Mwangi,Laptop,Electronics,1,71000,15/01/2025,,Card
+1019,Emily Naliaka,Mouse,Electronics,four,1500,16/01/2025,Eldoret,Mpesa
+1020,David Mwangi,Desk,Furniture,1,30000,08/01/2025,Nairobi,Mpesa
